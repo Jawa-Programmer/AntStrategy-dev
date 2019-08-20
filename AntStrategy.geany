@@ -1,0 +1,69 @@
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=true
+detect_indent_width=true
+indent_mode=2
+
+[project]
+name=AntStrategy
+base_path=/home/pi/openGL/AntStrategy
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=7
+FILE_NAME_0=379;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2Fmain.cpp;0;2
+FILE_NAME_1=1365;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FGameObjects%2FUnit.h;0;2
+FILE_NAME_2=1526;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FProgram%2FPlayerUnitTakeItemAlg.h;0;2
+FILE_NAME_3=782;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FGameObjects%2FItem.h;0;2
+FILE_NAME_4=177;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FProgram%2FGoTo_Instruction.h;0;2
+FILE_NAME_5=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FController%2FCamera.h;0;2
+FILE_NAME_6=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FopenGL%2FAntStrategy%2FController%2FMouse.h;0;2
+FILE_NAME_7=2313;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FThe-Powder-Toy%2Fsrc%2FConfig.h;0;3
+
+[VTE]
+last_dir=/home/pi
+
+[build-menu]
+NoneFT_00_LB=Собрать
+NoneFT_00_CM=make
+NoneFT_00_WD=/home/pi/openGL/AntStrategy
+NoneFT_01_LB=Запустить
+NoneFT_01_CM=./ants
+NoneFT_01_WD=/home/pi/openGL/AntStrategy
+NoneFT_02_LB=Очистить
+NoneFT_02_CM=make clean
+NoneFT_02_WD=/home/pi/openGL/AntStrategy
+filetypes=None;C++;
+C++FT_00_LB=Компиляция
+C++FT_00_CM=make
+C++FT_00_WD=/home/pi/openGL/AntStrategy
+C++FT_01_LB=Запуск
+C++FT_01_CM=make launch
+C++FT_01_WD=/home/pi/openGL/AntStrategy
+C++FT_02_LB=Очистка
+C++FT_02_CM=make clean
+C++FT_02_WD=/home/pi/openGL/AntStrategy
+EX_00_LB=Запуск в терминале
+EX_00_CM="./ants"
+EX_00_WD=/home/pi/openGL/AntStrategy
+NF_01_LB=Собрать заданную _цель...
+NF_01_CM=make 
+NF_01_WD=
